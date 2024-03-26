@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zinger",
+  "visibility": true,
+  "containerType": "FolderType",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.325946940614056, 59.93565639262312]
+      },
+      "properties": {
+       
+      }
+    } 
+  ]
+}
